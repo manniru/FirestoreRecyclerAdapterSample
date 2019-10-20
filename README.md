@@ -1,0 +1,2 @@
+# FirestoreRecyclerAdapterSample
+FirestoreRecyclerAdapterSample
